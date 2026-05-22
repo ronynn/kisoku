@@ -5,14 +5,14 @@
     
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
     
         <activity
             android:configChanges="orientation|screenSize"
-            android:name="io.github.ronynn.karui.MainActivity"
+            android:name="io.github.ronynn.kisoku.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

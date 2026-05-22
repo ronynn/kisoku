@@ -1,1 +1,1 @@
-An open source, privacy focussed, aesthetic todo list app.
+A breathing exercise app to calm the mind

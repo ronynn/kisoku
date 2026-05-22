@@ -1,3 +1,0 @@
-Notable Additions
-- Bunch of new themes, I like everforest-light the most.
-- Amoled support
