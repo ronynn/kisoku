@@ -1,0 +1,39 @@
+name: Fix Gradle Wrapper (8.4)
+
+on:
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  generate-wrapper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Java & Gradle
+        uses: actions/setup-java@v3
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Generate New Gradle Wrapper
+        run: |
+          GRADLE_VERSION="8.4"
+
+          # Run inside your repo so settings.gradle is found
+          gradle wrapper --gradle-version $GRADLE_VERSION
+
+      - name: Upload Gradle Wrapper JAR
+        uses: actions/upload-artifact@v4
+        with:
+          name: gradle-wrapper.jar
+          path: gradle/wrapper/gradle-wrapper.jar
+          retention-days: 7
+
+      - name: Upload Gradle Wrapper Properties
+        uses: actions/upload-artifact@v4
+        with:
+          name: gradle-wrapper.properties
+          path: gradle/wrapper/gradle-wrapper.properties
+          retention-days: 7
