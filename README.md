@@ -20,9 +20,8 @@ A breathing exercise app to calm the mind. Inspired by the system-24 theme aesth
 
 - 4 breathing exercises like box breathing, 4260 breathing.
 - **Retro terminalesque design:** Inspired by Unix customizations found online.
-- Use unix like commands to set or remove notes tabs.
-- **Lightweight:** Consumes only 0.05% CPU and 68KB of RAM. After all, simple apps shouldn't need more—remember, the Apollo mission operated on a computer with around 4KB of RAM!
-- **Highly customizable:** Offers many themes with plans to add more customizations such as fonts, font sizes, and border colors.
+- **Lightweight:** It's only a 30kb apk!
+- **Highly customizable:** Offers many themes with fonts, and border colors.
 
 ## No Cloud Integration
 
@@ -30,7 +29,7 @@ This app is designed to operate entirely locally, with no cloud storage involved
 
 ## Releases
 
-- You can download the latest apk from github releases section here: [Releases](https://github.com/ronynn/karui/releases)
+- You can download the latest apk from github releases section here: [Releases](https://github.com/ronynn/kisoku/releases)
 
 - Stay updated via our [RSS feed for GitHub releases](https://github.com/ronynn/kisoku/releases.atom) which includes detailed release notes.
 

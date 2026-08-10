@@ -1,1 +1,1 @@
-A completely offline breathing exercise app to calm the mind
+A completely offline breathing exercise app in just 30kb

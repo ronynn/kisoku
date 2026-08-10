@@ -2,9 +2,9 @@ A privacy friendly, aesthetically pleasing breathing exercise app to calm the mi
 
 Features
 
-- 4 breathing exercises like box breathing, 4260 breathing.
+- 4 breathing exercises like box breathing, 4-2-6-0 breathing.
 - Retro terminalesque design: Inspired by Unix customizations found online.
-- Lightweight: Consumes only 0.05% CPU and 68KB of RAM. After all, simple apps shouldn't need more—remember, the Apollo mission operated on a computer with around 4KB of RAM!
+- Lightweight: It's only a 30kb apk.
 - Highly customizable: Offers many themes with option for custom fonts.
 
 For more details on features, usage, customizations, discussions, visit the github repo and telegram group.
