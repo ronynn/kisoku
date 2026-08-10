@@ -1,4 +1,5 @@
-A breathing exercise app to calm the mind. Inspired by the system-24 theme aesthetic
+A privacy friendly, aesthetically pleasing breathing exercise app to calm the mind. Inspired by the system-24 discord theme aesthetic, and the lessons I learned while designing and improving Karui Todo app.
+
 Features
 
 - 4 breathing exercises like box breathing, 4260 breathing.

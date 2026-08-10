@@ -1,4 +1,4 @@
-# Karui ToDo
+# Kisoku 気息
 
 <div align="center">
   <img src="fastlane/metadata/android/en-US/images/icon.png" alt="App Icon" width="75%">
@@ -7,7 +7,6 @@
 ## Overview
 
 A breathing exercise app to calm the mind. Inspired by the system-24 theme aesthetic
-Features
 
 
 ## Screenshots
