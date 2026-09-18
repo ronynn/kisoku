@@ -35,7 +35,7 @@ This app is designed to operate entirely locally, with no cloud storage involved
 
 
 ## Licenses
-Karui is being developed under the GPLv3 License.
+Kisoku is being developed under the GPLv3 License.
 
 
 ## Follow the Development
